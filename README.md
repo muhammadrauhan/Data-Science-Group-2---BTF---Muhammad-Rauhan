@@ -11,5 +11,5 @@ Task 3: Intallation and getting familiar with Jupyter Notebook.
 Task 4: Learning Variable, Data types and Operators. Made Simple DMAS Calculator(Takes input as number then calculates product, division,
 addition and subtraction).
 <br>
-Task 5: Conditional Statements(if, elif & else) and Loops(for loop, while loop etc).
+Task 5: Conditional Statements(if, elif & else), Loops(for loop, while loop etc) and Functions
 Made Mini project.
