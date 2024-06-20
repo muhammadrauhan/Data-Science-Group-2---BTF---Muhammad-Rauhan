@@ -12,4 +12,5 @@ Task 4: Learning Variable, Data types and Operators. Made Simple DMAS Calculator
 addition and subtraction).
 <br>
 Task 5: Conditional Statements(if, elif & else), Loops(for loop, while loop etc) and Functions
-Made Mini project.
+<br>
+Implementation of task 5, made mini project, worked on functions in Python, made some patterns etc.
