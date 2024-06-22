@@ -14,3 +14,6 @@ addition and subtraction).
 Task 5: Conditional Statements(if, elif & else), Loops(for loop, while loop etc) and Functions
 <br>
 Implementation of task 5, made mini project, worked on functions in Python, made some patterns etc.
+<br>
+Task 6: Using File Handling & Exception Handling, created a student management system.
+<br>
