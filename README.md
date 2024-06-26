@@ -2,7 +2,7 @@
 <br>
 AUTHOR -> MUHAMMAD RAUHAN
 <br>
-<h2> Week 1: </h2>
+## Week 1
 <br>
 Task 1: Getting to know about Git. How to use it!
 <br>
@@ -17,7 +17,7 @@ Task 5: Conditional Statements(if, elif & else), Loops(for loop, while loop etc)
 <br>
 Implementation of task 5, made mini project, worked on functions in Python, made some patterns etc.
 <br>
-<h2> Week 2: </h2>
+## Week 2:
 <br>
 Task 6: File Handling & Exception Handling, using these created a simple Student Management System.
 <br>
