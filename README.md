@@ -4,25 +4,50 @@ AUTHOR -> MUHAMMAD RAUHAN
 <br>
 <h2> Week 1 </h2>
 <br>
-Task 1: Getting to know about Git. How to use it!
+1: Getting to know about Git. How to use it!
 <br>
-Task 2: Initializing Github repository.
+2: Initializing Github repository.
 <br>
-Task 3: Intallation and getting familiar with Jupyter Notebook.
+3: Intallation and getting familiar with Jupyter Notebook.
 <br>
-Task 4: Learning Variable, Data types and Operators. Made Simple DMAS Calculator(Takes input as number then calculates product, division,
+4: Learning Variable, Data types and Operators. Made Simple DMAS Calculator(Takes input as number then calculates product, division,
 addition and subtraction).
 <br>
-Task 5: Conditional Statements(if, elif & else), Loops(for loop, while loop etc) and Functions
+5: Conditional Statements(if, elif & else), Loops(for loop, while loop etc) and Functions
 <br>
 Implementation of task 5, made mini project, worked on functions in Python, made some patterns etc.
 <br>
 <h2> Week 2 </h2>
 <br>
-Task 6: File Handling & Exception Handling, using these created a simple Student Management System.
+6: File Handling & Exception Handling, using these created a simple Student Management System.
 <br>
-Task 7: OOP, I created a Library Management System using OOP concepts.
+7: OOP, I created a Library Management System using OOP concepts.
 <br>
-Task 8: Simple Data Structures (List, Tuple, Set & Dictionary). I developed a Inventory Management System that manages products, categories and stock levels.
+8: Simple Data Structures (List, Tuple, Set & Dictionary). I developed a Inventory Management System that manages products, categories and stock levels.
 <br>
-<h2> Week 3</h2>
+<h2> Week 3 </h2>
+Learnt about in details which included,
+9: Introduction to Statistics.
+<br>
+10: Introduction to NumPy (Arrays, Basic operations).
+<br>
+11: NumPy Advanced Operations (indexing, slicing & broadcasting).
+<br>
+12: Introduction to Pandas (Series, DataFrame basics).
+<br>
+13: Data manipulation with Pandas (indexing, selection, grouping).
+<br>
+14: Data cleaning and preprocessing with Pandas.
+<br>
+<h2> Week 4 </h2>
+15: Data Wrangling: Join, Combine, and Reshape.
+<br>
+16: Introduction to Matplotlib (basic plots: line, scatter, bar).
+<br>
+17: Advanced plotting techniques (subplots, histograms, box plots).
+<br>
+<h3>Month 1 Completed: Data Analysis Project</h3>
+
+
+
+
