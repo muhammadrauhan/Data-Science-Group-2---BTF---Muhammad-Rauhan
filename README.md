@@ -2,7 +2,8 @@
 <br>
 AUTHOR -> MUHAMMAD RAUHAN
 <br>
-<h2> Week 1 </h2>
+<h2>Month 01 (Data Analysis)</h2>
+<h3> Week 1 </h3>
 <br>
 1: Getting to know about Git. How to use it!
 <br>
