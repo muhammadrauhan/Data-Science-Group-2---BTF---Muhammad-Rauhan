@@ -2,7 +2,7 @@
 <br>
 AUTHOR -> MUHAMMAD RAUHAN
 <br>
-<h2> Month 01 (Data Analysis) </h2>
+<h2> Month 01 (Data Analysis): </h2>
 <h3> Week 1 </h3>
 <br>
 1: Getting to know about Git. How to use it!
@@ -58,18 +58,21 @@ Learnt about in details which included,
 <h3>Month 01 Completed: Data Analysis Project</h3>
 <br>
 
-<h2> Month 02 (Towards Baseline Models) </h2>
+<h2> Month 02 (Towards Baseline Models): </h2>
 <h3> Week 1 </h3>
 <br>
 18: Introduction to Seaborn (visualization with Seaborn).
+<br>
 Exploring different plots which includes Scatter plot, Line plot, Bar plot, Count plot and Box plot.
 <br>
 19: Statistical plotting with Seaborn (regression plots, distribution plots).
 <br>
 20: <b> Feature Engineering. </b>
+<br>
 Got hands-on experience in the key features of Feature Engineering like Feature Selection, Feature Transformation, Feature Creation, Polynomial Features and Handling Categorical Features.
 <br>
 21: <b> Linear algebra and calculus in NumPy. </b>
+<br>
 Linear Algebra tasks includes Matrix Creation and Manipulation, Solving Linear Equations, Calculating Eigenvalues and Eigenvectors, Performing Vector Operations and Matrix Decomposition. Calculus tasks includes Numerical Differenciation & Integration, Partial Derivatives and Optimization.
 <br>
 <h3> Week 2 </h3>
@@ -77,6 +80,7 @@ Linear Algebra tasks includes Matrix Creation and Manipulation, Solving Linear E
 22: <b> Linear Regression from Scratch </b>
 <br>
 23: <b> Regression Models using Scikit-learn. </b>
+<br>
 Explore different regression models and apply them using the sklearn library.
 <br>
 24: <b> Evaluation Techniques for Regression Models. </b>
@@ -85,9 +89,11 @@ Explore different regression models and apply them using the sklearn library.
 25: <b>  Logistic Regression from Scratch. </b>
 <br>
 26: <b> Classification Algorithms using Scikit-learn. </b>
+<br>
 Explored some algorithms which inlcudes Logistic Regression, k-Nearest Neighbors (k-NN), Support Vector Machines (SVM), Decision Trees, Random Forests, Gradient Boosting, Naive Bayes.
 <br>
 27: <b> Evaluation Techniques for Classification Models. </b>
+<br>
 Key techniques include: Confusion Matrix, Accuracy, Precision, Recall (Sensitivity), F1 Score, ROC Curve, AUC (Area Under the Curve), Cross-Validation and Classification report.
 <br>
 28: <b> Exploring Cross-Validation, Overfitting, and Underfitting. </b>
@@ -102,6 +108,6 @@ Key techniques include: Confusion Matrix, Accuracy, Precision, Recall (Sensitivi
 32: Clustering (KMeans).
 <br>
 
-<h2> Month 03 (ADVANCE) </h2>
+<h2> Month 03 (ADVANCE): </h2>
 <h3> Week 01 </h3>
-33: Neural Networks Basics (Perceptron, Activation Functions)
+33: Neural Networks Basics (Perceptron, Activation Functions).
